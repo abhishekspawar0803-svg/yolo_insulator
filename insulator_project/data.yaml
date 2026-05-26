@@ -1,0 +1,14 @@
+names:
+- broken
+- insulator
+- pollution-flashover
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: insulator-defect-yysit-nf9lv
+  url: https://universe.roboflow.com/abhishek-s-pawar/insulator-defect-yysit-nf9lv/dataset/1
+  version: 1
+  workspace: abhishek-s-pawar
+test: ../test/images
+train: ../train/images
+val: ../valid/images
